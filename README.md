@@ -102,7 +102,7 @@ This notebook implements a Physics-Informed Neural Network (PINN) to model and p
 ### PINN Predictions vs. Observed TWSA
 The second notebook trains a PINN to predict TWSA and compares the results with observed GRACE data. The model captures seasonal patterns and long-term trends in water storage anomalies.
 
-![PINN Predictions vs. Observed TWSA](https://via.placeholder.com/800x400?text=PINN+Predictions+vs.+Observed+TWSA)
+![PINN Predictions vs. Observed TWSA](image.png)
 
 ---
 
