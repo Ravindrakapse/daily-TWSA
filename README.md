@@ -1,4 +1,4 @@
-# Amazon Basin Hydrological Analysis with GRACE and ERA5 Data
+# Amazon Basin Hydrological Analysis with GRACE and ERA5 Data 🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
 
 This repository contains a complete workflow for analyzing hydrological data over the Amazon Basin using GRACE (Gravity Recovery and Climate Experiment) and ERA5 datasets. The project involves preprocessing spatiotemporal data, constructing physics-informed neural networks (PINNs), and comparing predicted water storage anomalies (TWSA) with observed GRACE data.
 
